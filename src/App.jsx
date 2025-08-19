@@ -311,7 +311,7 @@ function App() {
 
   const suggestionQuestions = [
     'what does USCYBERCOM stand for ?',
-    'who serves as the principal advisor on reserve matters to the Secretary of the Air Force and Chief of Staff ?'
+    'who serves as the principal advisor on reserve matters to the Secretar ?of the Air Force and Chief of Staff ?'
   ]
 
   return (
